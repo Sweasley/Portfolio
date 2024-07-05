@@ -43,7 +43,7 @@ const Experience = () => {
           <li>Accurately replicated websites from a main source.</li>
         </ul>
       ),
-      duration: "June 2024 - May 2024",
+      duration: "Jan 2024 - May 2024",
       skills: ["Jira", "CoreMedia CMS", "Agile Methodology", "Time Management"],
     },
 
