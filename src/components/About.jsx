@@ -78,7 +78,9 @@ const About = () => {
             <div className="box-item border border-gray-600 rounded-md px-4 py-2">
               <p className="text-white">Attention to Detail</p>
             </div>
-
+            <div className="box-item border border-gray-600 rounded-md px-4 py-2">
+              <p className="text-white">Passionate</p>
+            </div>
             <div className="box-item border border-gray-600 rounded-md px-4 py-2">
               <p className="text-white">Creativity</p>
             </div>
